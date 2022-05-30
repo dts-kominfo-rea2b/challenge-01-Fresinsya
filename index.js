@@ -31,10 +31,10 @@ const firstUser = {
     gender : "Female",
     age : 17,
     email : "monica@dingdong.com",
-    favoriteColor : color,
+    favoriteColor : Array.from(color),
     isHavePet : true,
     education : edu,
-    favoriteRestaurant : resto,
+    favoriteRestaurant : Array.from(resto),
 
 };
 
@@ -72,10 +72,10 @@ const secondUser = {
     gender : "Male",
     age : 23,
     email : "wendy@dingdong.com",
-    favoriteColor : color1,
+    favoriteColor : Array.from(color1),
     isHavePet : false,
     education : edu1,
-    restaurant : resto1,
+    favoriteRestaurant : Array.from(resto1),
 
 };
 // TODO: Masukkan hasil akhir dari kedua user di sini
