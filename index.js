@@ -27,14 +27,14 @@ const edu = {
 // Tentukan tipe data dan struktur data yang menurut kalian tepat
 // Kalian bisa membuat variabel lain untuk dimasukkan ke dalam atribut user agar lebih mudah dibaca
 const firstUser = {
-    nama : "Monica",
+    name : "Monica",
     gender : "Female",
     age : 17,
     email : "monica@dingdong.com",
-    pet : true,
-    favcolor : color,
+    isHavePet : true,
+    favoriteColor : color,
     education : edu,
-    restaurant : resto,
+    favoriteRestaurant : resto,
 
 };
 
