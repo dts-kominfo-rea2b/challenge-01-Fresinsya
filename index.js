@@ -31,8 +31,8 @@ const firstUser = {
     gender : "Female",
     age : 17,
     email : "monica@dingdong.com",
-    isHavePet : true,
     favoriteColor : color,
+    isHavePet : true,
     education : edu,
     favoriteRestaurant : resto,
 
@@ -68,12 +68,12 @@ const edu1 = {
 // Tentukan tipe data dan struktur data yang menurut kalian tepat
 // Kalian bisa membuat variabel lain untuk dimasukkan ke dalam atribut user agar lebih mudah dibaca
 const secondUser = {
-    nama : "Wendy",
+    name : "Wendy",
     gender : "Male",
     age : 23,
     email : "wendy@dingdong.com",
-    pet : false,
-    favcolor : color1,
+    favoriteColor : color1,
+    isHavePet : false,
     education : edu1,
     restaurant : resto1,
 
